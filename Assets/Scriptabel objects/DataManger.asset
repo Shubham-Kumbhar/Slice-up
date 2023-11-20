@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aab613afb492f9947af7b5ba373b30ac, type: 3}
+  m_Name: DataManger
+  m_EditorClassIdentifier: 
+  currentScore: 0
+  highestScore: 0
+  comboScore: 0
+  missedBlock: 6
+  maxBlockCamMissed: 5
+  endlessMode: 0
+  blockSpawnSpeed: 1.5
+  MusicSelected: {fileID: 8300000, guid: 1d702ebb47631934b9d491beae4cccf1, type: 3}
+  SFXVolume: 0.5
+  musicVolume: 0.5
